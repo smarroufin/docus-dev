@@ -1,1 +1,0 @@
-import{k as o,b as c,c as t,Y as r}from"./entry.vaHKoUNf.js";const n={};function s(e,a){return c(),t("blockquote",null,[r(e.$slots,"default",{},void 0,!0)])}const d=o(n,[["render",s],["__scopeId","data-v-b90caf5c"]]);export{d as default};
