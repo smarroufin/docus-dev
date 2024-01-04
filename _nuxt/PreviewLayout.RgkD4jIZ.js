@@ -1,0 +1,1 @@
+import{k as t,b as a,c as o,Y as s}from"./entry.vaHKoUNf.js";const c={},r={class:"preview-layout"};function n(e,d){return a(),o("div",r,[s(e.$slots,"default",{},void 0,!0)])}const l=t(c,[["render",n],["__scopeId","data-v-aa5c5939"]]);export{l as default};
